@@ -3,3 +3,6 @@ body {
     background-image: url("../images/background-img.jpg");
     background-repeat: no-repeat;
 }
+h2 {
+    color: orangered;
+}
